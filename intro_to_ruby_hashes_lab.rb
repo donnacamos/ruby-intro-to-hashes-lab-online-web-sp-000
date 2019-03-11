@@ -21,7 +21,7 @@ def monopoly_with_third_tier
 monopoly = {:railroads => {:pieces =>4, :names =>{}}}
 end
 
-def monopoly =  {
+def monopoly = {
   :railroads=>
   {
     :pieces=>4,
